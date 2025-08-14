@@ -1,0 +1,16 @@
+<script src="plugins/jquery/jquery.min.js"></script>
+<script>
+    let date = new Date();
+    $(document).ready(() => {
+        if (localStorage.getItem("loginFlag") === null) {
+            localStorage.setItem("loginFlag", "guest");
+            localStorage.setItem("loginUserName", "GUEST");
+            localStorage.setItem("lastLogin", date.getFullYear() + "-" + (date.getMonth() + 1) + "-" + date.getDate());
+            localStorage.setItem("loginToken", "ZZSX" + Math.floor(100000 + Math.random() * 900000) + "BBVC")
+        }
+    });
+</script>
+
+<head>
+    <meta http-equiv='refresh' content='0; URL=components/login/login.php'>
+</head>

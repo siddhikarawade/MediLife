@@ -1,0 +1,361 @@
+.fSB {
+    font-weight: bolder !important;
+}
+
+.tAC {
+    text-align: center !important;
+}
+
+.tAL {
+    text-align: left !important;
+}
+
+.tAR {
+    text-align: right !important;
+}
+
+.vAC {
+    vertical-align: center !important;
+}
+
+.tCW {
+    color: rgb(255, 255, 255) !important;
+}
+
+.tCG {
+    color: green !important;
+}
+
+.tCR {
+    color: red !important;
+}
+
+.tCO {
+    color: orange !important;
+}
+
+.tCP {
+    color: #FF69B4 !important;
+}
+
+.tCB {
+    color: black !important;
+}
+
+.tCGr {
+    color: grey !important;
+}
+
+.bCG {
+    background-color: lightgreen !important;
+}
+
+.bCR {
+    background-color: #ff3333 !important;
+}
+
+.fS10 {
+    font-size: 10px !important;
+}
+
+.fS13 {
+    font-size: 13px !important;
+}
+
+.fS18 {
+    font-size: 18px !important;
+}
+
+.fS22 {
+    font-size: 22px !important;
+}
+
+.fS23 {
+    font-size: 23px !important;
+}
+
+.fS25 {
+    font-size: 25px !important;
+}
+
+.mB0 {
+    margin-bottom: 0rem !important;
+}
+
+.mB15 {
+    margin-bottom: 15px !important;
+}
+
+.mT3 {
+    margin-top: 3px !important;
+}
+
+.mT5 {
+    margin-top: 5px !important;
+}
+
+.mT10 {
+    margin-top: 10px !important;
+}
+
+.mT15 {
+    margin-top: 15px !important;
+}
+
+.mT32 {
+    margin-top: 32px !important;
+}
+
+.mT36 {
+    margin-top: 36px !important;
+}
+
+.mR10 {
+    margin-right: 10px !important;
+}
+
+.mR20 {
+    margin-right: 20px !important;
+}
+
+.mL30 {
+    margin-left: 30px !important;
+}
+
+.mL30p {
+    margin-left: 30% !important;
+}
+
+.mL40p {
+    margin-left: 40% !important;
+}
+
+.mR40p {
+    margin-right: 40% !important;
+}
+
+.p0 {
+    padding: 0px !important;
+}
+
+.p510 {
+    padding: 5px 10px !important;
+}
+
+.pTB0 {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+.pB0 {
+    padding-bottom: 0px !important;
+}
+
+.pL10 {
+    padding-left: 10px !important;
+}
+
+.pT10 {
+    padding-top: 10px !important;
+}
+
+.pT15 {
+    padding-top: 15px !important;
+}
+
+.pR20 {
+    padding-right: 20px !important;
+}
+
+.wM28 {
+    max-width: 28% !important;
+}
+
+.wM40 {
+    max-width: 40% !important;
+}
+
+.w5 {
+    width: 5% !important;
+}
+
+.w10 {
+    width: 10% !important;
+}
+
+.w15 {
+    width: 15% !important;
+}
+
+.w30 {
+    width: 30% !important;
+}
+
+.w50 {
+    width: 50% !important;
+}
+
+.w50 {
+    width: 50% !important;
+}
+
+.w100 {
+    width: 100% !important;
+}
+
+.imgIcon {
+    width: 50px !important;
+    height: 50px !important;
+}
+
+
+/* Loader CSS */
+
+.loader {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url('../../dist/img/loaders/disk.gif') 50% 50% no-repeat rgb(249, 249, 249);
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none !important;
+    margin: 0 !important;
+}
+
+.imageButton {
+    padding-right: 7px;
+    padding-top: 2px;
+    text-align: center;
+    width: 28px;
+    height: 30px;
+}
+
+.addButton {
+    background: url('../../dist/img/icons/addld.png') no-repeat top left;
+    background-color: white;
+    float: right;
+}
+
+.deleteButton {
+    background: url('../../dist/img/icons/deleteld.png') no-repeat top left;
+}
+
+.displayGrid {
+    display: inline-flex;
+}
+
+.dash1 {
+    width: 38% !important;
+    float: left !important;
+    margin-bottom: 3px !important;
+    margin-left: 5px;
+}
+
+.dash4 {
+    width: 15% !important;
+    float: left !important;
+    height: 29px;
+    margin-left: 5px;
+}
+
+.dash5 {
+    float: left !important;
+    width: fit-content !important;
+    height: fit-content;
+    padding: 6px !important;
+}
+
+.bg1 {
+    background-image: radial-gradient(circle, #4d71a6, #446faf, #3a6db7, #316abf, #2767c7) !important;
+}
+
+.dash2 {
+    font-size: 15px;
+    padding: 3px 10px;
+    height: 30px;
+}
+
+.dash3 {
+    font-size: 14px;
+    padding: 5px 15px;
+    height: 31px;
+}
+
+.height30 {
+    height: 30px !important;
+}
+
+.height100 {
+    height: 100px !important;
+}
+
+.height110 {
+    height: 110px !important;
+}
+
+.height120 {
+    height: 120px !important;
+}
+
+.height130 {
+    height: 130px !important;
+}
+
+.util1 {
+    text-align: center;
+    padding-top: 10px;
+    font-size: 23px;
+    font-weight: 500;
+}
+
+.successMessage {
+    color: #25C032;
+    font-size: 1.0em;
+    text-align: center;
+}
+
+.line20 {
+    line-height: 20px !important;
+}
+
+.defaultImg {
+    width: 200px !important;
+    height: 200px !important;
+}
+
+.companyLogo {
+    width: 200px !important;
+    height: 200px !important;
+}
+
+table.dataTable tbody td {
+    word-break: break-word;
+    vertical-align: top;
+}
+
+.fL {
+    float: left !important;
+}
+
+.fR {
+    float: right !important;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.login-bg {
+    height: 100vh;
+    width: 100%;
+    /* min-height: 1080px;
+    min-width: 1920px; */
+    background-image: url("https://picsum.photos/id/237/536/354");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

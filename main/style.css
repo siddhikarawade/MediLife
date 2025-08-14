@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    height: 100vh;
+    margin: 0;
+    background-color: #75efed7c;
+}
+  
+.container2 {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-link {
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+
+.clickable-image {
+    width: 350px; 
+    height: 350px;
+    border: 2px solid #333;
+    border-radius: 8px;
+    transition: transform 0.3s;
+}
+
+.clickable-image:hover {
+    transform: scale(1.05);
+}
+
+.title{
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
