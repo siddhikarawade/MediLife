@@ -21,11 +21,10 @@
 ---
 🛠 Tech Stack
 ---
-Languages: HTML5, CSS3, JavaScript, PHP, SQL,
+Languages: HTML5, CSS3, JavaScript, PHP, SQL
 
-Database: MySQL (for user management)
+Database: MySQL 
 
-Storage: Git LFS (for large model files)
 
 
  
