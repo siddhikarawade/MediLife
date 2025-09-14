@@ -11,7 +11,7 @@
  errors, and more accurate diagnoses.
 
  ---
- Features
+🚀 Features
  ---
 
  1. Centralized patient information platform
