@@ -1,4 +1,4 @@
-ḷ̥---
+---
 🩺 MediLife - Electronic Health Record (EHR) System
 ---
 
