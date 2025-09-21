@@ -25,6 +25,7 @@ Languages: HTML5, CSS3, JavaScript, PHP, SQL
 
 Database: MySQL 
 
+<img width="1009" height="493" alt="image" src="https://github.com/user-attachments/assets/f16d1506-57c5-4115-ae73-4e3090c116d8" />
 
 
  
